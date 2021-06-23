@@ -1,8 +1,5 @@
 {
   "features": {
-    "frontend-ios": {
-      "enablexcodeintegration": true
-    },
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true,
@@ -16,9 +13,6 @@
       "retaincasestyle": true,
       "addtimestampfields": true,
       "handlelistnullabilitytransparently": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
     }
   }
 }
